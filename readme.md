@@ -19,3 +19,9 @@ https://github.com/evandaru/blog-images/assets/108566614/7fb5e4db-3fe1-4bce-9c0c
 
 ![ezgif-5-7c06449bf2](https://github.com/evandaru/blog-images/assets/108566614/bd28cca7-ff29-4499-9144-2df4c6d48329)
 ![logo](https://github.com/evandaru/blog-images/assets/108566614/8693742b-4b03-45df-848d-4c4ea135e892)
+
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/ef474ccf-ca43-477f-901e-2cf2ad9c8722">
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/63b51976-dc18-408c-8d9b-f007bcdaa398/3a9949b1-76cb-4b3c-98b3-7b5f36234fde/image.png)
+
+belajar
