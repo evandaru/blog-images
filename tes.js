@@ -1,0 +1,1 @@
+console.log("sapi itu enak")
